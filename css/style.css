@@ -4008,3 +4008,12 @@ dl.hiw {
   font-weight: bold;
   margin-top: 0px !important;
 }
+
+#footer_brand{
+  font-family: 'Audiowide', cursive; 
+  font-size: 40px;
+}
+#footer_line{
+  font-size: larger;
+  font-weight: bold;
+}
